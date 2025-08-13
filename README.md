@@ -47,7 +47,9 @@ This repository showcases my learning journey through **object-oriented programm
 ```bash
 javac src/Main.java
 java -cp src Main
+```
 ---
+
 ### 🗄 Database-based Projects
 
 If the project requires **MySQL**:
